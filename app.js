@@ -87,7 +87,7 @@ function game(){
     if(scorePlayer > scoreComputer){
         console.log("Player was the winner");
     }
-    else if (scorePlayer <scoreComputer){
+    else if (scorePlayer<scoreComputer){
         console.log("Computer was the winner");
 
     }
